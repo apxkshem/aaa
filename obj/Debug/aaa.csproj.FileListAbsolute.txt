@@ -1,0 +1,13 @@
+W:\work\test\aaa.exe.config
+W:\work\test\aaa.exe
+W:\work\test\aaa.pdb
+W:\work\aaa\obj\Debug\aaa.Form1.resources
+W:\work\aaa\obj\Debug\aaa.Properties.Resources.resources
+W:\work\aaa\obj\Debug\aaa.csproj.GenerateResource.cache
+W:\work\aaa\obj\Debug\aaa.csproj.CoreCompileInputs.cache
+W:\work\aaa\obj\Debug\aaa.exe
+W:\work\aaa\obj\Debug\aaa.pdb
+W:\work\aaa\test\aaa.exe.config
+W:\work\aaa\test\aaa.exe
+W:\work\aaa\test\aaa.pdb
+W:\work\aaa\obj\Debug\aaa.csprojAssemblyReference.cache
